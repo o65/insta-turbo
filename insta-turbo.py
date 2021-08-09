@@ -1,4 +1,3 @@
-from logging import basicConfig
 import requests
 import threading
 import ctypes
